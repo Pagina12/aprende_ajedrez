@@ -6,7 +6,6 @@
 	<meta charset="utf-8">
 	<meta name="keywords" content="Ajedrez">
 	<meta name="description" content="Aprender a jugar ajedrez para competir con otras personas">
-	<meta name="author" content="Luis Gustavo">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title> Aprendo ajedrez </title>
 
@@ -115,22 +114,6 @@
 			width: 94%;
 			height: 94%;
 			margin: auto;
-		}
-
-		footer {
-			border: 1px solid #8E44AD;
-			height: 40px;
-			width: 100%;
-			background-color: #8E44AD;
-			margin-top: 35px;    /* margen superior */
-			color: #fff;
-			font-weight: 800;
-			font-size: 17px;
-			letter-spacing: 2px;
-			text-align: center;
-			padding-top: 20px;	/* ayuda a que quede bien centrado el texto */
-			font-family: Georgia, sans-serif;
-			position: relative;
 		}
 
 	</style>
@@ -455,9 +438,6 @@
 		</section><br>
 	</div>
 
-		<footer>
-			Luis Gustavo / 2020
-		</footer>
 
 </body>
 
